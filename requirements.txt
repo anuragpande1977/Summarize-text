@@ -1,5 +1,4 @@
 streamlit==1.23.1
-transformers==4.11.3  # Downgrade transformers to a stable version
 torch==2.4.1
 pillow==9.4.0  # Use a compatible version of pillow
 
