@@ -1,6 +1,6 @@
 streamlit==1.23.1
 torch==2.4.1
-pillow==9.4.0  # Use a compatible version of pillow
+
 
 
 
